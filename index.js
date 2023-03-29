@@ -11,4 +11,4 @@ const object = {
 }
 const{myName, progLanguage, nextOneYear } = object;
 //console.log(object);
-console.log('My name is ' + myName +'.'+ ' My preferred programming language is '+ progLanguage+'.'+ ' In the next 1 year ' + nextOneYear +'.');
+console.log(`My name is ${myName}. \nMy preferred programming language is ${progLanguage}.\nIn the next 1 year ${nextOneYear}.`);
